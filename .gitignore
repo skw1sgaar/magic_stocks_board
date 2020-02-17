@@ -1,0 +1,4 @@
+*.log
+*.txt
+/stuff_from_prof/*
+.idea/*
